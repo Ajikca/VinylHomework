@@ -1,0 +1,40 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Segoe UI', Verdana, sans-seri;
+}
+header {
+  background-image: url(/VinylHomework/Records.jpg);
+  text-align: center;
+  font-size: 75px;
+  font-weight: bold;
+}
+img{
+  width: 500px;
+}
+#selection {
+  text-align: center;
+  background-color: #ef8354;
+}
+#sale{
+  font-weight: bold;
+}
+#selling{
+  text-align: center;
+  background-color: #0e7c7b;
+}
+#live{
+  text-align: center;
+  background-color: #9c538b;
+}
+
+footer{
+  text-align: center;
+}
+a:hover{
+  color: #9c528b;
+}
+a:link{
+color: #ef8354;
+}
